@@ -1,3 +1,3 @@
-from raft import RAFT
+from .core.raft import RAFT
 
 __all__ = ["RAFT"]
